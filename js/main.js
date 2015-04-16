@@ -476,7 +476,7 @@ mouse.kill();
 	if(mouse.body.touching.down)
 	{
 	    	mouse.animations.play('left');
-	mouse.body.velocity.x = -100;
+	mouse.body.velocity.x = -50;
 	}
 	
 	
@@ -488,7 +488,7 @@ mouse.kill();
 	if(mouse.body.touching.down)
 	{
 	    mouse.animations.play('right');
-	mouse.body.velocity.x = 100;
+	mouse.body.velocity.x = 50;
 	}
 	
     }
