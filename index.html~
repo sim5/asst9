@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Chase Memory</title>
+    <script src="js/phaser.js"></script>
+    <script src="js/main.js"></script>
+
+<style>
+body
+{
+    color: #777;
+    font-family: "Avenir", Verdana, sans-serif;
+}
+#readme
+{
+    margin-top: 10px;
+}
+</style>
+
+</head>
+<body>
+<div id="game"></div>
+<div id="readme">
+<h2>Chase Memory</h2>
+<ul>
+
+<li><strong>High Concept:</strong>
+Run, jump, and slide your way across the city to catch a dog.
+</li>
+
+<li><strong>Player Experience Goals:</strong>
+Players will experience the speed and stamina of a well trained ninja.
+</li>
+
+<li><strong>Genre:</strong>
+Side-scrolling platform runner.
+</li>
+
+<li><strong>Game play:</strong>
+The player is able to run, jump across gaps and onto or over objects, and slide under obstacles. Running is done by either holding the left or right arrow key. Jumping is spacebar. Sliding is holding the down key while running and releasing the running key. The player gains speed up to a maximum while constantly running in a direction, while speed is lost by sliding, stopping, or changing direction.
+</li>
+
+<li><strong>Prototype goal:</strong>
+To incorporate light freerunning mechanics in a side-scrolling platform runner. 
+</li>
+
+<li><strong>Features:</strong>
+Simple movement, such as running, jumping, and sliding, are coupled with acceleration and deceleration mechanics, platforming, and obstacles. Also, dogs and ninjas on top of city buildings.
+</li>
+
+<li><strong>Setting/Premise:</strong>
+The player is a ninja who, for some reason, is on top of city buildings. He also has a bit of amnesia, and must catch a dog named 'Memory'. 
+</li>
+
+<li><strong>Story:</strong>
+You wake up not knowing exactly who you are. Next to you is a dog, the tag says 'Memory', and you feel like the dog is the key to your lost...well, memory. But the dog ran away and you must chase it quickly!
+</li>
+
+<li><strong>Target Audience:</strong>
+Anyone from the age of 8 and up, and enjoys either platforming, running, sliding, jumping, ninjas, dogs, the sky, or the tops of city buildings.
+</li>
+
+<li><strong>Play time:</strong>
+2-6 minutes.
+</li>
+
+<li><strong>Strategies:</strong>
+Coordination, timing, and quick reactions to obstacles will lead to success.
+</li>
+
+<li><strong>Prototype Assets:</strong>
+Dog image from http://opengameart.org/content/pixel-version-of-a-dog-puppy-s%C3%A3o-bernardo
+Ninja sprite from http://opengameart.org/content/ninja-adventure-free-sprite 
+City background from http://opengameart.org/content/minimalist-sidescroll-city 
+Title music from http://opengameart.org/content/neocrey-nightwind 
+Background music from http://opengameart.org/content/neocrey-your-personal-heaven
+Slide sound from https://www.freesound.org/people/18hiltc/sounds/198761/
+Jump sound from
+http://opengameart.org/content/jump-sound-effect-yo-frankie
+Die sound from http://opengameart.org/content/ghost
+Win sound from http://opengameart.org/content/well-done
+</li>
+
+<li><strong>Prototype Closest Other Game:</strong>
+Starstruck is the closest example. Also borrows code from Tanks, http://www.photonstorm.com/phaser/tutorial-making-your-first-phaser-game, and various basic examples.
+</li>
+
+</ul>
+</div>
+</body>
+</html>
